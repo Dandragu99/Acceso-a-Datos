@@ -1,0 +1,52 @@
+# Archivos generados por compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Carpetas comunes de IDEs
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+
+# --- NetBeans ---
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Archivos Maven o Gradle de cache local (si usas)
+target/
+.gradle/
+build/
+
+# Archivos de configuración personales
+*.iws
+*.ipr
+
+# Archivos de entorno de Windows PowerShell (por si usas el terminal)
+*.ps1~
+
+# Eclipse (por si acaso abres algo allí)
+.classpath
+.project
+.settings/
+
+# VS Code (por si editas algo allí)
+.vscode/
