@@ -15,3 +15,16 @@ Cada carpeta representa un proyecto independiente. Algunos de los temas que se t
 
 ## 🧱 Estructura de carpetas
 
+Acceso-a-Datos/
+├── ProyectosXML/
+├── ProyectosJSON/
+├── ProyectosJDBC/
+├── ProyectosORM/
+└── ...
+
+
+
+## 🚀 Cómo clonar el repositorio
+
+```bash
+git clone https://github.com/Dandragu99/Acceso-a-Datos.git
