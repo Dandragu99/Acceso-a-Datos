@@ -1,0 +1,34 @@
+{
+  "empresa": "TechCorp",
+  "ubicacion": "Madrid",
+  "departamentos": [
+    {
+      "nombre": "Desarrollo",
+      "empleados": [
+        {
+          "id": 1,
+          "nombre": "Laura",
+          "edad": 28,
+          "tecnologias": ["Java", "Spring", "MySQL"]
+        },
+        {
+          "id": 2,
+          "nombre": "Carlos",
+          "edad": 32,
+          "tecnologias": ["Python", "Django"]
+        }
+      ]
+    },
+    {
+      "nombre": "Marketing",
+      "empleados": [
+        {
+          "id": 3,
+          "nombre": "Sara",
+          "edad": 30,
+          "tecnologias": []
+        }
+      ]
+    }
+  ]
+}
